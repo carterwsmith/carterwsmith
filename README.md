@@ -1,4 +1,4 @@
-### Hi there 👋
+[![summary of my life](https://img.youtube.com/vi/YnL9vAFphmE/0.jpg)](https://www.youtube.com/watch?v=YnL9vAFphmE)
 
 <!--
 **carterwsmith/carterwsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
